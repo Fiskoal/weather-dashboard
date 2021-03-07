@@ -24,5 +24,4 @@ Yes it can be annoying if you live in less populated places, but with multiple p
 https://fiskoal.github.io/weather-dashboard/
 
 ## screenshots
-
-
+https://github.com/Fiskoal/weather-dashboard/tree/main/assets/screenshots
